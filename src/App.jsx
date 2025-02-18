@@ -137,7 +137,7 @@ const medications = [
     name: "Creschol 20 Mg 30 Tab",
     type: "SL",
     price: "",
-    ac: "Crescensol",
+    ac: "Rosuvastatin",
     img: "./images/103344869.svg",
   },
   {
@@ -146,7 +146,7 @@ const medications = [
     name: "Creschol 5 Mg 30 Tab",
     type: "SL",
     price: "",
-    ac: "Crescensol",
+    ac: "Rosuvastatin",
     img: "./images/103344842.svg",
   },
   {
