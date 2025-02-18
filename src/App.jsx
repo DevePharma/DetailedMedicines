@@ -12,7 +12,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Atorvastatin  ",
-    img: "/images/100033580.svg",
+    img: "./images/100033580.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -21,7 +21,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Atorvastatin  ",
-    img: "/images/100033598.svg",
+    img: "./images/100033598.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -30,7 +30,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Atorvastatin  ",
-    img: "/images/100033601.svg",
+    img: "./images/100033601.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -39,7 +39,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Simvastatin  ",
-    img: "/images/100022995.svg",
+    img: "./images/100022995.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -48,7 +48,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Simvastatin  ",
-    img: "/images/100024798.svg",
+    img: "./images/100024798.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -57,7 +57,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Simvastatin  ",
-    img: "/images/100024763.svg",
+    img: "./images/100024763.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -66,7 +66,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Olmesartan, Amlodipine",
-    img: "/images/103340542.svg",
+    img: "./images/103340542.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -75,7 +75,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Olmesartan, Amlodipine",
-    img: "/images/103340551.svg",
+    img: "./images/103340551.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -84,7 +84,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Olmesartan, Amlodipine",
-    img: "/images/103340526.svg",
+    img: "./images/103340526.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -93,7 +93,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Olmesartan, Amlodipine",
-    img: "/images/103340534.svg",
+    img: "./images/103340534.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -102,7 +102,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Olmesartan, Hydrochlorothiazide",
-    img: "/images/103340489.svg",
+    img: "./images/103340489.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -111,7 +111,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Olmesartan, Hydrochlorothiazide",
-    img: "/images/103340462.svg",
+    img: "./images/103340462.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -120,7 +120,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Olmesartan, Hydrochlorothiazide",
-    img: "/images/103340471.svg",
+    img: "./images/103340471.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -129,7 +129,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Rosuvastatin",
-    img: "/images/103344851.svg",
+    img: "./images/103344851.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -138,7 +138,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Crescensol",
-    img: "/images/103344869.svg",
+    img: "./images/103344869.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -147,7 +147,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Crescensol",
-    img: "/images/103344842.svg",
+    img: "./images/103344842.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -156,7 +156,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Betahistine  ",
-    img: "/images/100022581.svg",
+    img: "./images/100022581.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -165,7 +165,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Atenolol  ",
-    img: "/images/100024000.svg",
+    img: "./images/100024000.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -174,7 +174,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Atenolol  ",
-    img: "/images/100024069.svg",
+    img: "./images/100024069.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -183,7 +183,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Atenolol  ",
-    img: "/images/100024077.svg",
+    img: "./images/100024077.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -192,7 +192,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Simvastatin  ",
-    img: "/images/100024819.svg",
+    img: "./images/100024819.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -201,7 +201,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Simvastatin  ",
-    img: "/images/100024827.svg",
+    img: "./images/100024827.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -210,7 +210,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Propranolol  ",
-    img: "/images/100025521.svg",
+    img: "./images/100025521.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -219,7 +219,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Propranolol  ",
-    img: "/images/100025539.svg",
+    img: "./images/100025539.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -228,7 +228,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Simvastatin  ",
-    img: "/images/100026283.svg",
+    img: "./images/100026283.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -237,7 +237,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Simvastatin  ",
-    img: "/images/100027067.svg",
+    img: "./images/100027067.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -246,7 +246,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Simvastatin  ",
-    img: "/images/100027075.svg",
+    img: "./images/100027075.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -255,7 +255,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Betahistine  ",
-    img: "/images/100032421.svg",
+    img: "./images/100032421.svg",
   },
 
   {
@@ -265,7 +265,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Irbesartan + Hydrochlorothiazide  ",
-    img: "/images/100601671.svg",
+    img: "./images/100601671.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -274,7 +274,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Bisoprolol  ",
-    img: "/images/100606317.svg",
+    img: "./images/100606317.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -283,7 +283,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Bisoprolol  ",
-    img: "/images/100606325.svg",
+    img: "./images/100606325.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -292,7 +292,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Bisoprolol  ",
-    img: "/images/100606333.svg",
+    img: "./images/100606333.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -301,7 +301,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Bisoprolol + Hydrochlorothiazide  ",
-    img: "/images/100606341.svg",
+    img: "./images/100606341.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -310,7 +310,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Irbesartan  ",
-    img: "/images/100629789.svg",
+    img: "./images/100629789.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -319,7 +319,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Irbesartan  ",
-    img: "/images/100629797.svg",
+    img: "./images/100629797.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -328,7 +328,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Candesartan  ",
-    img: "/images/100629842.svg",
+    img: "./images/100629842.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -337,7 +337,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Losartan  ",
-    img: "/images/100630069.svg",
+    img: "./images/100630069.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -346,7 +346,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Losartan  ",
-    img: "/images/100630114.svg",
+    img: "./images/100630114.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -355,7 +355,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Clopidogrel  ",
-    img: "/images/100630296.svg",
+    img: "./images/100630296.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -364,7 +364,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine  ",
-    img: "/images/100630616.svg",
+    img: "./images/100630616.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -373,7 +373,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Irbesartan + Hydrochlorothiazide  ",
-    img: "/images/100632419.svg",
+    img: "./images/100632419.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -382,7 +382,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Irbesartan + Hydrochlorothiazide  ",
-    img: "/images/100632427.svg",
+    img: "./images/100632427.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -391,7 +391,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine  ",
-    img: "/images/100632478.svg",
+    img: "./images/100632478.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -400,7 +400,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Hydrochlorothiazide  ",
-    img: "/images/100632638.svg",
+    img: "./images/100632638.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -409,7 +409,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Furosemide  ",
-    img: "/images/100632654.svg",
+    img: "./images/100632654.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -418,7 +418,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Losartan + Hydrochlorothiazide  ",
-    img: "/images/100632751.svg",
+    img: "./images/100632751.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -427,7 +427,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Losartan + Hydrochlorothiazide  ",
-    img: "/images/100632769.svg",
+    img: "./images/100632769.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -436,7 +436,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Captopril  ",
-    img: "/images/100632777.svg",
+    img: "./images/100632777.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -445,7 +445,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Captopril  ",
-    img: "/images/100633024.svg",
+    img: "./images/100633024.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -454,7 +454,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Lisinopril  ",
-    img: "/images/100633075.svg",
+    img: "./images/100633075.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -463,7 +463,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Lisinopril  ",
-    img: "/images/100633083.svg",
+    img: "./images/100633083.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -472,7 +472,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Lisinopril  ",
-    img: "/images/100633091.svg",
+    img: "./images/100633091.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -481,7 +481,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine  ",
-    img: "/images/100633155.svg",
+    img: "./images/100633155.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -490,7 +490,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine  ",
-    img: "/images/100633518.svg",
+    img: "./images/100633518.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -499,7 +499,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Spironolactone  ",
-    img: "/images/100633631.svg",
+    img: "./images/100633631.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -508,7 +508,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Valsartan + Hydrochlorothiazide  ",
-    img: "/images/100640208.svg",
+    img: "./images/100640208.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -517,7 +517,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Valsartan + Hydrochlorothiazide  ",
-    img: "/images/100640216.svg",
+    img: "./images/100640216.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -526,7 +526,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Valsartan + Hydrochlorothiazide  ",
-    img: "/images/100640224.svg",
+    img: "./images/100640224.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -535,7 +535,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Valsartan + Hydrochlorothiazide  ",
-    img: "/images/100641008.svg",
+    img: "./images/100641008.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -544,7 +544,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Valsartan + Hydrochlorothiazide  ",
-    img: "/images/100641016.svg",
+    img: "./images/100641016.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -553,7 +553,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Valsartan  ",
-    img: "/images/100641163.svg",
+    img: "./images/100641163.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -562,7 +562,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Valsartan  ",
-    img: "/images/100641171.svg",
+    img: "./images/100641171.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -571,7 +571,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Valsartan  ",
-    img: "/images/100641180.svg",
+    img: "./images/100641180.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -580,7 +580,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Valsartan  ",
-    img: "/images/100641198.svg",
+    img: "./images/100641198.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -589,7 +589,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Rosuvastatin  ",
-    img: "/images/100823741.svg",
+    img: "./images/100823741.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -598,7 +598,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Rosuvastatin  ",
-    img: "/images/100823750.svg",
+    img: "./images/100823750.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -607,7 +607,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Indapamide  ",
-    img: "/images/101038251.svg",
+    img: "./images/101038251.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -616,7 +616,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Perindopril",
-    img: "/images/101163968.svg",
+    img: "./images/101163968.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -625,7 +625,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Perindopril",
-    img: "/images/101164987.svg",
+    img: "./images/101164987.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -634,7 +634,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine + Valsartan + Hydrochlorothiazide  ",
-    img: "/images/101284233.svg",
+    img: "./images/101284233.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -643,7 +643,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine + Valsartan + Hydrochlorothiazide  ",
-    img: "/images/101284241.svg",
+    img: "./images/101284241.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -652,7 +652,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine + Valsartan + Hydrochlorothiazide  ",
-    img: "/images/101284250.svg",
+    img: "./images/101284250.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -661,7 +661,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine + Valsartan + Hydrochlorothiazide  ",
-    img: "/images/101284268.svg",
+    img: "./images/101284268.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -670,7 +670,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine + Valsartan + Hydrochlorothiazide  ",
-    img: "/images/101284276.svg",
+    img: "./images/101284276.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -679,7 +679,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Ezetimibe  ",
-    img: "/images/101325218.svg",
+    img: "./images/101325218.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -688,7 +688,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan  ",
-    img: "/images/101331167.svg",
+    img: "./images/101331167.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -697,7 +697,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan  ",
-    img: "/images/101331175.svg",
+    img: "./images/101331175.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -706,7 +706,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan + Hydrochlorothiazide  ",
-    img: "/images/101331183.svg",
+    img: "./images/101331183.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -715,7 +715,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan + Hydrochlorothiazide  ",
-    img: "/images/101331191.svg",
+    img: "./images/101331191.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -724,7 +724,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan + Hydrochlorothiazide  ",
-    img: "/images/101331204.svg",
+    img: "./images/101331204.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -733,7 +733,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Propranolol  ",
-    img: "/images/101690750.svg",
+    img: "./images/101690750.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -742,7 +742,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Carvedilol  ",
-    img: "/images/101980618.svg",
+    img: "./images/101980618.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -751,7 +751,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Carvedilol  ",
-    img: "/images/101980634.svg",
+    img: "./images/101980634.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -760,7 +760,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan + Amlodipine  ",
-    img: "/images/102099638.svg",
+    img: "./images/102099638.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -769,7 +769,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan + Amlodipine  ",
-    img: "/images/102099646.svg",
+    img: "./images/102099646.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -778,7 +778,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan + Amlodipine + Hydrochlorothiazide  ",
-    img: "/images/102099654.svg",
+    img: "./images/102099654.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -787,7 +787,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan + Amlodipine + Hydrochlorothiazide  ",
-    img: "/images/102099662.svg",
+    img: "./images/102099662.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -796,7 +796,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan + Amlodipine + Hydrochlorothiazide  ",
-    img: "/images/102099671.svg",
+    img: "./images/102099671.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -805,7 +805,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan + Amlodipine + Hydrochlorothiazide  ",
-    img: "/images/102099689.svg",
+    img: "./images/102099689.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -814,7 +814,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan + Amlodipine + Hydrochlorothiazide  ",
-    img: "/images/102099697.svg",
+    img: "./images/102099697.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -823,7 +823,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Tranexamic Acid  ",
-    img: "/images/102750380.svg",
+    img: "./images/102750380.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -832,7 +832,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Fenofibrate  ",
-    img: "/images/102779625.svg",
+    img: "./images/102779625.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -841,7 +841,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Ticagrelor",
-    img: "/images/102781004.svg",
+    img: "./images/102781004.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -850,7 +850,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Rivaroxaban  ",
-    img: "/images/102792758.svg",
+    img: "./images/102792758.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -859,7 +859,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Nebivolol  ",
-    img: "/images/102792791.svg",
+    img: "./images/102792791.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -868,7 +868,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Fenofibrate  ",
-    img: "/images/102792838.svg",
+    img: "./images/102792838.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -877,7 +877,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Dabigatran  ",
-    img: "/images/102792942.svg",
+    img: "./images/102792942.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -886,7 +886,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Rosuvastatin  ",
-    img: "/images/103008611.svg",
+    img: "./images/103008611.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -895,7 +895,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Rosuvastatin + Ezetimibe  ",
-    img: "/images/103008662.svg",
+    img: "./images/103008662.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -904,7 +904,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Rosuvastatin + Ezetimibe  ",
-    img: "/images/103008671.svg",
+    img: "./images/103008671.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -913,7 +913,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan + Ezetimibe  ",
-    img: "/images/103015803.svg",
+    img: "./images/103015803.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -922,7 +922,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Candesartan  ",
-    img: "/images/103063611.svg",
+    img: "./images/103063611.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -931,7 +931,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine + Valsartan  ",
-    img: "/images/103067611.svg",
+    img: "./images/103067611.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -940,7 +940,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine + Valsartan  ",
-    img: "/images/103067620.svg",
+    img: "./images/103067620.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -949,7 +949,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine + Valsartan  ",
-    img: "/images/103067638.svg",
+    img: "./images/103067638.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -958,7 +958,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amlodipine + Valsartan  ",
-    img: "/images/103067646.svg",
+    img: "./images/103067646.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -967,7 +967,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Enoxaparin  ",
-    img: "/images/103069668.svg",
+    img: "./images/103069668.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -976,7 +976,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Enoxaparin  ",
-    img: "/images/103069676.svg",
+    img: "./images/103069676.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -985,7 +985,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Enoxaparin  ",
-    img: "/images/103069684.svg",
+    img: "./images/103069684.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -994,7 +994,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Enoxaparin  ",
-    img: "/images/103069692.svg",
+    img: "./images/103069692.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -1003,7 +1003,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Rivaroxaban  ",
-    img: "/images/103069705.svg",
+    img: "./images/103069705.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -1012,7 +1012,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Rivaroxaban  ",
-    img: "/images/103069713.svg",
+    img: "./images/103069713.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -1021,7 +1021,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Rivaroxaban  ",
-    img: "/images/103069721.svg",
+    img: "./images/103069721.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -1030,7 +1030,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Apixaban  ",
-    img: "/images/103079612.svg",
+    img: "./images/103079612.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -1039,7 +1039,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Apixaban  ",
-    img: "/images/103079621.svg",
+    img: "./images/103079621.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -1048,7 +1048,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olmesartan + Ezetimibe  ",
-    img: "/images/103143899.svg",
+    img: "./images/103143899.svg",
   },
   {
     category: "CARDIOVASCULAR",
@@ -1057,7 +1057,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Candesartan + Hydrochlorothiazide  ",
-    img: "/images/103209624.svg",
+    img: "./images/103209624.svg",
   },
   {
     category: "DERMATOLOGICAL",
@@ -1066,7 +1066,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Momethasone furoate",
-    img: "/images/100029126.svg",
+    img: "./images/100029126.svg",
   },
   {
     category: "DERMATOLOGICAL",
@@ -1075,7 +1075,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Momethasone furoate",
-    img: "/images/100031200.svg",
+    img: "./images/100031200.svg",
   },
   {
     category: "DERMATOLOGICAL",
@@ -1084,7 +1084,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Tacrolimus",
-    img: "/images/100031648.svg",
+    img: "./images/100031648.svg",
   },
   {
     category: "DERMATOLOGICAL",
@@ -1093,7 +1093,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Calcipotriol, Betamethasone dipropionate",
-    img: "/images/102066650.svg",
+    img: "./images/102066650.svg",
   },
   {
     category: "DERMATOLOGICAL",
@@ -1102,7 +1102,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Tacrolimus",
-    img: "/images/102234756.svg",
+    img: "./images/102234756.svg",
   },
   {
     category: "DERMATOLOGICAL",
@@ -1111,7 +1111,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Tacrolimus",
-    img: "/images/102502618.svg",
+    img: "./images/102502618.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1120,7 +1120,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Metformin",
-    img: "/images/100029273.svg",
+    img: "./images/100029273.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1129,7 +1129,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Glimepiride",
-    img: "/images/100031357.svg",
+    img: "./images/100031357.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1138,7 +1138,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Glimepiride",
-    img: "/images/100032501.svg",
+    img: "./images/100032501.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1147,7 +1147,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Glimepiride",
-    img: "/images/100032536.svg",
+    img: "./images/100032536.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1156,7 +1156,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Vildagliptin, Metformin",
-    img: "/images/100616443.svg",
+    img: "./images/100616443.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1165,7 +1165,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Vildagliptin, Metformin",
-    img: "/images/100616451.svg",
+    img: "./images/100616451.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1174,7 +1174,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Glibenclamide, Metformin",
-    img: "/images/100707329.svg",
+    img: "./images/100707329.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1183,7 +1183,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Glibenclamide, Metformin",
-    img: "/images/100707337.svg",
+    img: "./images/100707337.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1192,7 +1192,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Glimepiride",
-    img: "/images/101059159.svg",
+    img: "./images/101059159.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1201,7 +1201,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Glimepiride",
-    img: "/images/101059167.svg",
+    img: "./images/101059167.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1210,7 +1210,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Metformin",
-    img: "/images/101111148.svg",
+    img: "./images/101111148.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1219,7 +1219,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Metformin",
-    img: "/images/101111156.svg",
+    img: "./images/101111156.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1228,7 +1228,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Gliclazide",
-    img: "/images/101146201.svg",
+    img: "./images/101146201.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1237,7 +1237,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Metformin",
-    img: "/images/101225882.svg",
+    img: "./images/101225882.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1246,7 +1246,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Metformin",
-    img: "/images/101225891.svg",
+    img: "./images/101225891.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1255,7 +1255,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Dapagliflozin, Metformin",
-    img: "/images/101285228.svg",
+    img: "./images/101285228.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1264,7 +1264,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Dapagliflozin",
-    img: "/images/101641659.svg",
+    img: "./images/101641659.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1273,7 +1273,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Dapagliflozin",
-    img: "/images/101641667.svg",
+    img: "./images/101641667.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1282,7 +1282,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Gliclazide",
-    img: "/images/101736640.svg",
+    img: "./images/101736640.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1291,7 +1291,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Glimepiride, Metformin",
-    img: "/images/102119619.svg",
+    img: "./images/102119619.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1300,7 +1300,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Vildagliptin",
-    img: "/images/102783851.svg",
+    img: "./images/102783851.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1309,7 +1309,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Vildagliptin",
-    img: "/images/102783860.svg",
+    img: "./images/102783860.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1318,7 +1318,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Dapagliflozin, Metformin",
-    img: "/images/102786366.svg",
+    img: "./images/102786366.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1327,7 +1327,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Sitagliptin, Metformin",
-    img: "/images/102792774.svg",
+    img: "./images/102792774.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1336,7 +1336,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Sitagliptin, Metformin",
-    img: "/images/102792782.svg",
+    img: "./images/102792782.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1345,7 +1345,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Sitagliptin",
-    img: "/images/102792811.svg",
+    img: "./images/102792811.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1354,7 +1354,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Linagliptin",
-    img: "/images/103006667.svg",
+    img: "./images/103006667.svg",
   },
   {
     category: "DIABETIC MEDICATION",
@@ -1363,7 +1363,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Metformin",
-    img: "/images/103040638.svg",
+    img: "./images/103040638.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1372,7 +1372,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Pantoprazole",
-    img: "/images/100014776.svg",
+    img: "./images/100014776.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1381,7 +1381,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Domperidone",
-    img: "/images/100023576.svg",
+    img: "./images/100023576.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1390,7 +1390,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Omeprazole",
-    img: "/images/100025379.svg",
+    img: "./images/100025379.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1399,7 +1399,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Pantoprazole",
-    img: "/images/100025432.svg",
+    img: "./images/100025432.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1408,7 +1408,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Pantoprazole",
-    img: "/images/100026152.svg",
+    img: "./images/100026152.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1417,7 +1417,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Finasteride",
-    img: "/images/100029610.svg",
+    img: "./images/100029610.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1426,7 +1426,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Omeprazole, Sodium bicarbonate",
-    img: "/images/100866338.svg",
+    img: "./images/100866338.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1435,7 +1435,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Tamsulosin",
-    img: "/images/100923531.svg",
+    img: "./images/100923531.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1444,7 +1444,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Alfuzosin",
-    img: "/images/101111033.svg",
+    img: "./images/101111033.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1453,7 +1453,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Ondansetron",
-    img: "/images/101225073.svg",
+    img: "./images/101225073.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1462,7 +1462,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Ondansetron",
-    img: "/images/101225081.svg",
+    img: "./images/101225081.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1471,7 +1471,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Solifenacin",
-    img: "/images/101941619.svg",
+    img: "./images/101941619.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1480,7 +1480,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Solifenacin",
-    img: "/images/101941627.svg",
+    img: "./images/101941627.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1489,7 +1489,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Ondansetron",
-    img: "/images/102073622.svg",
+    img: "./images/102073622.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1498,7 +1498,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Ondansetron",
-    img: "/images/102073631.svg",
+    img: "./images/102073631.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1507,7 +1507,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Rabeprazole",
-    img: "/images/102408672.svg",
+    img: "./images/102408672.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1516,7 +1516,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Esomeprazole",
-    img: "/images/102796628.svg",
+    img: "./images/102796628.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1525,7 +1525,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Esomeprazole",
-    img: "/images/102796636.svg",
+    img: "./images/102796636.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1534,7 +1534,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Dexlansoprazole",
-    img: "/images/103066985.svg",
+    img: "./images/103066985.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1543,7 +1543,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Dexlansoprazole",
-    img: "/images/103066993.svg",
+    img: "./images/103066993.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1552,7 +1552,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Dutasteride, Tamsulosin",
-    img: "/images/103078610.svg",
+    img: "./images/103078610.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -1561,7 +1561,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Tamsulosin",
-    img: "/images/103084761.svg",
+    img: "./images/103084761.svg",
   },
   {
     category: "HORMONES",
@@ -1570,7 +1570,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Prednisolone",
-    img: "/images/100006451.svg",
+    img: "./images/100006451.svg",
   },
   {
     category: "HORMONES",
@@ -1579,7 +1579,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Desogestrel, Ethinylestradiol",
-    img: "/images/100032464.svg",
+    img: "./images/100032464.svg",
   },
   {
     category: "HORMONES",
@@ -1588,7 +1588,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Desogestrel",
-    img: "/images/100032472.svg",
+    img: "./images/100032472.svg",
   },
   {
     category: "HORMONES",
@@ -1597,7 +1597,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Clomiphene citrate",
-    img: "/images/101225428.svg",
+    img: "./images/101225428.svg",
   },
   {
     category: "HORMONES",
@@ -1606,7 +1606,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Prednisolone",
-    img: "/images/101299371.svg",
+    img: "./images/101299371.svg",
   },
   {
     category: "HORMONES",
@@ -1615,7 +1615,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Cabergoline",
-    img: "/images/101333162.svg",
+    img: "./images/101333162.svg",
   },
   {
     category: "HORMONES",
@@ -1624,7 +1624,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Cabergoline",
-    img: "/images/101333171.svg",
+    img: "./images/101333171.svg",
   },
   {
     category: "HORMONES",
@@ -1633,7 +1633,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Carbimazole",
-    img: "/images/101527856.svg",
+    img: "./images/101527856.svg",
   },
   {
     category: "HORMONES",
@@ -1642,7 +1642,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Levonorgestrel, Ethinylestradiol",
-    img: "/images/101920691.svg",
+    img: "./images/101920691.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1651,7 +1651,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Meloxicam",
-    img: "/images/100010038.svg",
+    img: "./images/100010038.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1660,7 +1660,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Naproxen",
-    img: "/images/100010097.svg",
+    img: "./images/100010097.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1669,7 +1669,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Alendronate",
-    img: "/images/100010476.svg",
+    img: "./images/100010476.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1678,7 +1678,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Meloxicam",
-    img: "/images/100011452.svg",
+    img: "./images/100011452.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1687,7 +1687,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Voltaren (Diclofenac sodium)",
-    img: "/images/100013845.svg",
+    img: "./images/100013845.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1696,7 +1696,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Meloxicam",
-    img: "/images/100016860.svg",
+    img: "./images/100016860.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1705,7 +1705,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Allopurinol",
-    img: "/images/100904541.svg",
+    img: "./images/100904541.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1714,7 +1714,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Etoricoxib",
-    img: "/images/100948018.svg",
+    img: "./images/100948018.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1723,7 +1723,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Etoricoxib",
-    img: "/images/100948026.svg",
+    img: "./images/100948026.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1732,7 +1732,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Etoricoxib",
-    img: "/images/100948034.svg",
+    img: "./images/100948034.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1741,7 +1741,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Allopurinol",
-    img: "/images/100994401.svg",
+    img: "./images/100994401.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1750,7 +1750,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Allopurinol",
-    img: "/images/100994410.svg",
+    img: "./images/100994410.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1759,7 +1759,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Sumatriptan",
-    img: "/images/101801632.svg",
+    img: "./images/101801632.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1768,7 +1768,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Sumatriptan",
-    img: "/images/101801641.svg",
+    img: "./images/101801641.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1777,7 +1777,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Sumatriptan",
-    img: "/images/101801659.svg",
+    img: "./images/101801659.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1786,7 +1786,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Sumatriptan",
-    img: "/images/101801667.svg",
+    img: "./images/101801667.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1795,7 +1795,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Lornoxicam",
-    img: "/images/102424656.svg",
+    img: "./images/102424656.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1804,7 +1804,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Baclofen",
-    img: "/images/102472623.svg",
+    img: "./images/102472623.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1813,7 +1813,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Baclofen",
-    img: "/images/102472631.svg",
+    img: "./images/102472631.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1822,7 +1822,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Tizanidine",
-    img: "/images/102550071.svg",
+    img: "./images/102550071.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1831,7 +1831,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Tizanidine",
-    img: "/images/102550089.svg",
+    img: "./images/102550089.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1840,7 +1840,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Sumatriptan",
-    img: "/images/102822662.svg",
+    img: "./images/102822662.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1849,7 +1849,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Sumatriptan",
-    img: "/images/102822671.svg",
+    img: "./images/102822671.svg",
   },
   {
     category: "MUSCLOSKELETAL",
@@ -1858,7 +1858,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Celecoxib",
-    img: "/images/102942461.svg",
+    img: "./images/102942461.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1867,7 +1867,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Lamotrigine",
-    img: "/images/100013790.svg",
+    img: "./images/100013790.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1876,7 +1876,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Sertraline",
-    img: "/images/100015200.svg",
+    img: "./images/100015200.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1885,7 +1885,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Sertraline",
-    img: "/images/100015218.svg",
+    img: "./images/100015218.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1894,7 +1894,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Mirtazapine",
-    img: "/images/100015226.svg",
+    img: "./images/100015226.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1903,7 +1903,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Mirtazapine",
-    img: "/images/100015234.svg",
+    img: "./images/100015234.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1912,7 +1912,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Fluoxetine",
-    img: "/images/100015314.svg",
+    img: "./images/100015314.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1921,7 +1921,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Oxcarbazepine",
-    img: "/images/100015787.svg",
+    img: "./images/100015787.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1930,7 +1930,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Paroxetine",
-    img: "/images/100609500.svg",
+    img: "./images/100609500.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1939,7 +1939,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Escitalopram",
-    img: "/images/100627935.svg",
+    img: "./images/100627935.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1948,7 +1948,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Escitalopram",
-    img: "/images/100627943.svg",
+    img: "./images/100627943.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1957,7 +1957,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Risperidone",
-    img: "/images/100641147.svg",
+    img: "./images/100641147.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1966,7 +1966,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Topiramate",
-    img: "/images/100697255.svg",
+    img: "./images/100697255.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1975,7 +1975,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Topiramate",
-    img: "/images/100697263.svg",
+    img: "./images/100697263.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1984,7 +1984,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olanzapine",
-    img: "/images/100907312.svg",
+    img: "./images/100907312.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -1993,7 +1993,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Olanzapine",
-    img: "/images/100907321.svg",
+    img: "./images/100907321.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2002,7 +2002,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Venlafaxine",
-    img: "/images/100965889.svg",
+    img: "./images/100965889.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2011,7 +2011,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Venlafaxine",
-    img: "/images/100965897.svg",
+    img: "./images/100965897.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2020,7 +2020,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Quetiapine",
-    img: "/images/101035296.svg",
+    img: "./images/101035296.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2029,7 +2029,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Quetiapine",
-    img: "/images/101035931.svg",
+    img: "./images/101035931.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2038,7 +2038,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Quetiapine",
-    img: "/images/101035940.svg",
+    img: "./images/101035940.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2047,7 +2047,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Aripiprazole",
-    img: "/images/101059319.svg",
+    img: "./images/101059319.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2056,7 +2056,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Aripiprazole",
-    img: "/images/101059327.svg",
+    img: "./images/101059327.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2065,7 +2065,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Aripiprazole",
-    img: "/images/101059335.svg",
+    img: "./images/101059335.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2074,7 +2074,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Levetiracetam",
-    img: "/images/101118702.svg",
+    img: "./images/101118702.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2083,7 +2083,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Levetiracetam",
-    img: "/images/101118711.svg",
+    img: "./images/101118711.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2092,7 +2092,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Levetiracetam",
-    img: "/images/101118729.svg",
+    img: "./images/101118729.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2101,7 +2101,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Levetiracetam",
-    img: "/images/101118737.svg",
+    img: "./images/101118737.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2110,7 +2110,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Duloxetine",
-    img: "/images/101122154.svg",
+    img: "./images/101122154.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2119,7 +2119,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Quetiapine",
-    img: "/images/101122171.svg",
+    img: "./images/101122171.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2128,7 +2128,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Quetiapine",
-    img: "/images/101122189.svg",
+    img: "./images/101122189.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2137,7 +2137,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Levetiracetam",
-    img: "/images/101231633.svg",
+    img: "./images/101231633.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2146,7 +2146,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Quetiapine",
-    img: "/images/101231668.svg",
+    img: "./images/101231668.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2155,7 +2155,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Memantine",
-    img: "/images/101231676.svg",
+    img: "./images/101231676.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2164,7 +2164,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Risperidone",
-    img: "/images/101273171.svg",
+    img: "./images/101273171.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2173,7 +2173,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Lamotrigine",
-    img: "/images/101284321.svg",
+    img: "./images/101284321.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2182,7 +2182,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Lamotrigine",
-    img: "/images/101284330.svg",
+    img: "./images/101284330.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2191,7 +2191,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Sertraline",
-    img: "/images/101495647.svg",
+    img: "./images/101495647.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2200,7 +2200,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amisulpride",
-    img: "/images/101757774.svg",
+    img: "./images/101757774.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2209,7 +2209,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amisulpride",
-    img: "/images/102347611.svg",
+    img: "./images/102347611.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2218,7 +2218,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Desvenlafaxine",
-    img: "/images/102472615.svg",
+    img: "./images/102472615.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2227,7 +2227,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Atomoxetine",
-    img: "/images/102549918.svg",
+    img: "./images/102549918.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2236,7 +2236,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Atomoxetine",
-    img: "/images/102549926.svg",
+    img: "./images/102549926.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2245,7 +2245,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Atomoxetine",
-    img: "/images/102549934.svg",
+    img: "./images/102549934.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2254,7 +2254,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Atomoxetine",
-    img: "/images/102549942.svg",
+    img: "./images/102549942.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2263,7 +2263,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Atomoxetine",
-    img: "/images/102549951.svg",
+    img: "./images/102549951.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2272,7 +2272,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Paliperidone",
-    img: "/images/102766613.svg",
+    img: "./images/102766613.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2281,7 +2281,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Oxcarbazepine",
-    img: "/images/102806873.svg",
+    img: "./images/102806873.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2290,7 +2290,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Lacosamide",
-    img: "/images/102822638.svg",
+    img: "./images/102822638.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -2299,7 +2299,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Lacosamide",
-    img: "/images/102822654.svg",
+    img: "./images/102822654.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2308,7 +2308,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Salmeterol, Fluticasone",
-    img: "/images/100018566.svg",
+    img: "./images/100018566.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2317,7 +2317,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Budesonide, Formoterol",
-    img: "/images/100018574.svg",
+    img: "./images/100018574.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2326,7 +2326,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Salbutamol",
-    img: "/images/100020279.svg",
+    img: "./images/100020279.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2335,7 +2335,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Salbutamol",
-    img: "/images/100021714.svg",
+    img: "./images/100021714.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2344,7 +2344,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Budesonide",
-    img: "/images/100613736.svg",
+    img: "./images/100613736.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2353,7 +2353,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Mometasone furoate",
-    img: "/images/100617850.svg",
+    img: "./images/100617850.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2362,7 +2362,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Montelukast",
-    img: "/images/100697335.svg",
+    img: "./images/100697335.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2371,7 +2371,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Montelukast",
-    img: "/images/100866371.svg",
+    img: "./images/100866371.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2380,7 +2380,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Salbutamol",
-    img: "/images/101004289.svg",
+    img: "./images/101004289.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2389,7 +2389,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Montelukast",
-    img: "/images/101180021.svg",
+    img: "./images/101180021.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2398,7 +2398,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Beclometasone, Formoterol",
-    img: "/images/101594506.svg",
+    img: "./images/101594506.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2407,7 +2407,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Ipratropium",
-    img: "/images/102091610.svg",
+    img: "./images/102091610.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2416,7 +2416,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Ipratropium",
-    img: "/images/102091628.svg",
+    img: "./images/102091628.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2425,7 +2425,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Budesonide",
-    img: "/images/102737687.svg",
+    img: "./images/102737687.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2434,7 +2434,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Fluticasone, Salmeterol",
-    img: "/images/102904414.svg",
+    img: "./images/102904414.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2443,7 +2443,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Fluticasone, Salmeterol",
-    img: "/images/102904422.svg",
+    img: "./images/102904422.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2452,7 +2452,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Fluticasone, Salmeterol",
-    img: "/images/102904431.svg",
+    img: "./images/102904431.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2461,7 +2461,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Fluticasone, Salmeterol",
-    img: "/images/102904449.svg",
+    img: "./images/102904449.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2470,7 +2470,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Budesonide",
-    img: "/images/103063629.svg",
+    img: "./images/103063629.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2479,7 +2479,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Montelukast",
-    img: "/images/103068614.svg",
+    img: "./images/103068614.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -2488,7 +2488,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Tiotropium",
-    img: "/images/103084770.svg",
+    img: "./images/103084770.svg",
   },
   {
     category: "SENSORY ORGANS",
@@ -2497,7 +2497,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Flurometholone",
-    img: "/images/100017782.svg",
+    img: "./images/100017782.svg",
   },
   {
     category: "SENSORY ORGANS",
@@ -2506,7 +2506,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Prednisolone",
-    img: "/images/100018099.svg",
+    img: "./images/100018099.svg",
   },
   {
     category: "SENSORY ORGANS",
@@ -2515,7 +2515,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Dorzolamide,Timolol",
-    img: "/images/100018734.svg",
+    img: "./images/100018734.svg",
   },
   {
     category: "SENSORY ORGANS",
@@ -2524,7 +2524,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Dorzolamide",
-    img: "/images/100018742.svg",
+    img: "./images/100018742.svg",
   },
   {
     category: "SENSORY ORGANS",
@@ -2533,7 +2533,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Fusidic acid",
-    img: "/images/100019534.svg",
+    img: "./images/100019534.svg",
   },
   {
     category: "SENSORY ORGANS",
@@ -2542,7 +2542,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Tobramycin",
-    img: "/images/100019542.svg",
+    img: "./images/100019542.svg",
   },
   {
     category: "SENSORY ORGANS",
@@ -2551,7 +2551,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Tobramycin",
-    img: "/images/100020439.svg",
+    img: "./images/100020439.svg",
   },
   {
     category: "SENSORY ORGANS",
@@ -2560,7 +2560,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Dexamethasone, Tobramycin",
-    img: "/images/100020615.svg",
+    img: "./images/100020615.svg",
   },
   {
     category: "SENSORY ORGANS",
@@ -2569,7 +2569,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Ofloxacin",
-    img: "/images/100020965.svg",
+    img: "./images/100020965.svg",
   },
   {
     category: "SENSORY ORGANS",
@@ -2578,7 +2578,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Latanoprost",
-    img: "/images/100660111.svg",
+    img: "./images/100660111.svg",
   },
   {
     category: "SENSORY ORGANS",
@@ -2587,7 +2587,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Moxifloxacin",
-    img: "/images/101594881.svg",
+    img: "./images/101594881.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2596,7 +2596,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Cefixime",
-    img: "/images/100005175.svg",
+    img: "./images/100005175.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2605,7 +2605,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Azithromycin",
-    img: "/images/100005677.svg",
+    img: "./images/100005677.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2614,7 +2614,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Itraconazole",
-    img: "/images/100005731.svg",
+    img: "./images/100005731.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2623,7 +2623,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Itraconazole",
-    img: "/images/100005757.svg",
+    img: "./images/100005757.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2632,7 +2632,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amoxicillin,Clavulanic Acid ",
-    img: "/images/100006514.svg",
+    img: "./images/100006514.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2641,7 +2641,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Azithromycin",
-    img: "/images/100007091.svg",
+    img: "./images/100007091.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2650,7 +2650,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Cefdinir",
-    img: "/images/100007162.svg",
+    img: "./images/100007162.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2659,7 +2659,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Terbinafine",
-    img: "/images/100007197.svg",
+    img: "./images/100007197.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2668,7 +2668,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amoxicillin",
-    img: "/images/100007752.svg",
+    img: "./images/100007752.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2677,7 +2677,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Cefuroxime",
-    img: "/images/100008051.svg",
+    img: "./images/100008051.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2686,7 +2686,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Cefuroxime",
-    img: "/images/100008077.svg",
+    img: "./images/100008077.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2695,7 +2695,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Clarithromycin",
-    img: "/images/100008288.svg",
+    img: "./images/100008288.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2704,7 +2704,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Clarithromycin",
-    img: "/images/100008309.svg",
+    img: "./images/100008309.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2713,7 +2713,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Azithromycin",
-    img: "/images/100008595.svg",
+    img: "./images/100008595.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2722,7 +2722,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Doxycycline",
-    img: "/images/100008675.svg",
+    img: "./images/100008675.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2731,7 +2731,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Trimethoprim, Sulfamethoxazole",
-    img: "/images/100008712.svg",
+    img: "./images/100008712.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2740,7 +2740,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Azithromycin",
-    img: "/images/100008827.svg",
+    img: "./images/100008827.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2749,7 +2749,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amoxicillin,Clavulanic Acid ",
-    img: "/images/100008843.svg",
+    img: "./images/100008843.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2758,7 +2758,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Ciprofloxacin",
-    img: "/images/100009070.svg",
+    img: "./images/100009070.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2767,7 +2767,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amoxicillin,Clavulanic Acid ",
-    img: "/images/100009096.svg",
+    img: "./images/100009096.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2776,7 +2776,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amoxicillin",
-    img: "/images/100009117.svg",
+    img: "./images/100009117.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2785,7 +2785,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amoxicillin",
-    img: "/images/100009125.svg",
+    img: "./images/100009125.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2794,7 +2794,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amoxicillin,Clavulanic Acid ",
-    img: "/images/100009141.svg",
+    img: "./images/100009141.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2803,7 +2803,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amoxicillin,Clavulanic Acid ",
-    img: "/images/100009416.svg",
+    img: "./images/100009416.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2812,7 +2812,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Cephalexin",
-    img: "/images/100009555.svg",
+    img: "./images/100009555.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2821,7 +2821,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Metronidazole",
-    img: "/images/100014047.svg",
+    img: "./images/100014047.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2830,7 +2830,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Metronidazole",
-    img: "/images/100014098.svg",
+    img: "./images/100014098.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2839,7 +2839,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Metronidazole",
-    img: "/images/100017694.svg",
+    img: "./images/100017694.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2848,7 +2848,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Clarithromycin",
-    img: "/images/100017791.svg",
+    img: "./images/100017791.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2857,7 +2857,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Valacyclovir",
-    img: "/images/100018355.svg",
+    img: "./images/100018355.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2866,7 +2866,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Metronidazole",
-    img: "/images/100021589.svg",
+    img: "./images/100021589.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2875,7 +2875,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Moxifloxacin",
-    img: "/images/100606296.svg",
+    img: "./images/100606296.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2884,7 +2884,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Moxifloxacin",
-    img: "/images/100606309.svg",
+    img: "./images/100606309.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2893,7 +2893,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amoxicillin",
-    img: "/images/100630991.svg",
+    img: "./images/100630991.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2902,7 +2902,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amoxicillin,Clavulanic Acid ",
-    img: "/images/100631045.svg",
+    img: "./images/100631045.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2911,7 +2911,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Cefdinir",
-    img: "/images/100631088.svg",
+    img: "./images/100631088.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2920,7 +2920,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Cefdinir",
-    img: "/images/100631133.svg",
+    img: "./images/100631133.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2929,7 +2929,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Fluconazole",
-    img: "/images/100631192.svg",
+    img: "./images/100631192.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2938,7 +2938,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Azithromycin",
-    img: "/images/100631521.svg",
+    img: "./images/100631521.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2947,7 +2947,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amoxicillin",
-    img: "/images/100631723.svg",
+    img: "./images/100631723.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2956,7 +2956,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Cefixime",
-    img: "/images/100634043.svg",
+    img: "./images/100634043.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2965,7 +2965,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Ciprofloxacin",
-    img: "/images/100634203.svg",
+    img: "./images/100634203.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2974,7 +2974,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Amoxicillin,Clavulanic Acid ",
-    img: "/images/101121397.svg",
+    img: "./images/101121397.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2983,7 +2983,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Ciprofloxacin",
-    img: "/images/101179951.svg",
+    img: "./images/101179951.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -2992,7 +2992,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Ciprofloxacin",
-    img: "/images/101180004.svg",
+    img: "./images/101180004.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -3001,7 +3001,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Ciprofloxacin",
-    img: "/images/101180012.svg",
+    img: "./images/101180012.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -3010,7 +3010,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Fluconazole",
-    img: "/images/101641641.svg",
+    img: "./images/101641641.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -3019,7 +3019,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Fosfomycin",
-    img: "/images/101925619.svg",
+    img: "./images/101925619.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -3028,7 +3028,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Cefixime",
-    img: "/images/102122623.svg",
+    img: "./images/102122623.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -3037,7 +3037,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Clarithromycin",
-    img: "/images/102335611.svg",
+    img: "./images/102335611.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -3046,7 +3046,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Clindamycin",
-    img: "/images/102472640.svg",
+    img: "./images/102472640.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -3055,7 +3055,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Clindamycin",
-    img: "/images/102472658.svg",
+    img: "./images/102472658.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -3064,7 +3064,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Levofloxacin",
-    img: "/images/103023619.svg",
+    img: "./images/103023619.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -3073,7 +3073,7 @@ const medications = [
     type: "",
     price: "",
     ac: "Cefpodoxime",
-    img: "/images/103201761.svg",
+    img: "./images/103201761.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -3082,7 +3082,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Azithromycin",
-    img: "/images/103322678.svg",
+    img: "./images/103322678.svg",
   },
   {
     category: "SYSTEMIC ANTI INFECTIVES",
@@ -3091,7 +3091,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Azithromycin",
-    img: "/images/103322686.svg",
+    img: "./images/103322686.svg",
   },
 
   {
@@ -3101,7 +3101,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Montelukast",
-    img: "/images/103344818.svg",
+    img: "./images/103344818.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -3110,7 +3110,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Montelukast",
-    img: "/images/103344826.svg",
+    img: "./images/103344826.svg",
   },
   {
     category: "RESPIRATORY CARE",
@@ -3119,7 +3119,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Montelukast",
-    img: "/images/103344834.svg",
+    img: "./images/103344834.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -3128,7 +3128,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Esomeprazole",
-    img: "/images/103340518.svg",
+    img: "./images/103340518.svg",
   },
   {
     category: "GASTROURINARY SYSTEM",
@@ -3137,7 +3137,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Esomeprazole",
-    img: "/images/103340614.svg",
+    img: "./images/103340614.svg",
   },
 
   {
@@ -3147,7 +3147,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Aripiprazole",
-    img: "/images/103346936.svg",
+    img: "./images/103346936.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -3156,7 +3156,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Aripiprazole",
-    img: "/images/103346944.svg",
+    img: "./images/103346944.svg",
   },
   {
     category: "NERVOUS SYSTEM",
@@ -3165,7 +3165,7 @@ const medications = [
     type: "SL",
     price: "",
     ac: "Aripiprazole",
-    img: "/images/103346928.svg",
+    img: "./images/103346928.svg",
   },
 ];
 
